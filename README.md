@@ -1,6 +1,6 @@
 # Irony Detection, Reasoning and Understanding in Zero-shot Learning
-Implementation of paper: Irony Detection, Reasoning and Understanding in Zero-shot Learning
-<p align=center><img src="architecture.png" width="500" center/>
+**Implementation of paper: Irony Detection, Reasoning and Understanding in Zero-shot Learning**
+
 Irony is a powerful figurative language (FL) on social media that can potentially mislead various NLP tasks, such as recommendation systems, misinformation checks, and
 sentiment analysis. Understanding the implicit meaning of this kind of subtle language is an essential step to mitigate the negative impact of irony in NLP tasks. However, existing efforts are limited
 to domain-specific datasets and struggle to generalise across diverse real-world scenarios. Moreover, the reasoning for model decisions that accurately capture semantic and affective meaning
