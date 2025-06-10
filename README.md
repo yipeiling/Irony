@@ -1,10 +1,10 @@
 # Irony Detection, Reasoning and Understanding in Zero-shot Learning
 Implementation of paper: Irony Detection, Reasoning and Understanding in Zero-shot Learning
-<p align=center><img src="sample_irony.png" width="500" center/>
+<p align=center><img src="architecture.png" width="500" center/>
 
 ## Main idea and implementation
 We combine the three training losses to fine-tune a classifier. Adversarial training(**Embedding loss**) and task training(**BCELoss**) optimise ID-XCB model parameters on a training dataset and simultaneously enforce the fairness constraints(**FC**) on a validation set to reduce swear word impact.
-<p align=center><img src="code.png" width="600" center/>
+<p align=center><img src="sample_irony.png" width="500" center/>
 
 ## Datasets 
 #### [1] Instagram cyberbullying detection datasets （Need to request from the dataset author）
