@@ -12,14 +12,15 @@ this knowledge into targeted prompts designed for specific tasks. The outputs ar
 <p align=center><img src="sample_irony.png" width="600" center/>
 
 ## Datasets 
-#### [1] Instagram cyberbullying detection datasets （Need to request from the dataset author）
-Homa Hosseinmardi, Sabrina Arredondo Mattson, Rahat Ibn Rafiq, Richard Han, Qin Lv, and Shivakant Mishra. 2015. **Analyzing labeled cyberbullying incidents on the instagram social network**. In _Socinfo_. Springer, 49–66.
-#### [2] Vine cyberbullying detection datasets （Need to request from the dataset author）
-Rahat Ibn Rafiq, Homa Hosseinmardi, Richard Han, Qin Lv, Shivakant Mishra, and Sabrina Arredondo Mattson. 2015. **Careful what you share in six seconds: Detecting cyberbullying instances in Vine**. In _ASONAM_. ACM, 617–622.
-#### [3] Swear lexicon_1 (Publicly available)
-Agrawal S, Awekar A. 2018 Mar 1. **Deep learning for detecting cyberbullying across multiple social media platforms**. In European conference on information retrieval 2018 Mar 1 (pp. 141-153). 
-#### [4] Swear lexicon_2 (Publicly available)
-We use Google bad words lists[https://code.google.com/archive/p/badwordslist/downloads]
+#### [1] iSarcasm
+I. A. Farha, S. Oprea, S. Wilson, and W. Magdy, “Semeval-2022 task 6:isarcasmeval, intended sarcasm detection in english and arabic,” in The 16th International Workshop on Semantic Evaluation 2022. Association
+for Computational Linguistics, 2022, pp. 802–814.
+#### [2] SemEval
+C. Van Hee, E. Lefever, and V. Hoste, “Semeval-2018 task 3: Irony detection in english tweets,” in Proceedings of the 12th international workshop on semantic evaluation, 2018, pp. 39–50.
+#### [3] Reddit
+B. C. Wallace, L. Kertz, E. Charniak et al., “Humans require context to infer ironic intent (so computers probably do, too),” in Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), 2014, pp. 512–516.
+#### [4] Gen, RQ, HYP 
+S. Oraby, V. Harrison, L. Reed, E. Hernandez, E. Riloff, and M. Walker, “Creating and characterizing a diverse corpus of sarcasm in dialogue,” arXiv preprint arXiv:1709.05404, 2017.
 
 ### Python package version
 * pandas==2.0.3
