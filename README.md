@@ -9,7 +9,7 @@ remains underexplored. To address these limitations, this paper proposes a conce
 ## Main idea and implementation
 In the **Irony-focused Knowledge Extraction stage**, multiple prompts are used to elicit different aspects of irony-related knowledge from the language model. The **Knowledge Integration stage** incorporates
 this knowledge into targeted prompts designed for specific tasks. The outputs are then aggregated using a **voting mechanism** to produce the final results for irony detection (binary classification), irony reasoning (explanation of contrast or context), and irony understanding (interpretation of the ironic statement).
-<p align=center><img src="sample_irony.png" width="500" center/>
+<p align=center><img src="sample_irony.png" width="600" center/>
 
 ## Datasets 
 #### [1] Instagram cyberbullying detection datasets （Need to request from the dataset author）
